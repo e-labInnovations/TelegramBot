@@ -1,0 +1,31 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "This is a library of image tools for Google Apps Script.",
+  "main": "TelegramBot.js",
+  "scripts": {
+    "build": "gulp build",
+    "push": "cd src; clasp push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e-labInnovations/TelegramBot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "googleappsscript"
+  ],
+  "author": "e-labInnovations",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e-labInnovations/TelegramBot/issues"
+  },
+  "homepage": "https://github.com/e-labInnovations/TelegramBot#readme",
+  "devDependencies": {
+    "@google/clasp": "^2.4.1",
+    "gulp": "^4.0.2",
+    "gulp-expose": "0.0.7",
+    "gulp-rename": "^2.0.0"
+  }
+}
