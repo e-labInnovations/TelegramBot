@@ -6,7 +6,7 @@
 [![Issue Count](https://codeclimate.com/github/e-labInnovations/TelegramBot/badges/issue_count.svg)](https://codeclimate.com/github/e-labInnovations/TelegramBot)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENCE)
 
-This is a library of image tools for Google Apps Script.
+This is a library for Google Apps Script to create Telegram Bot.
 
 ## Methods
 
